@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  1 NOV 2023 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.25)  1 NOV 2023 19:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -617,6 +617,325 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 .sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+olorbox.sty
+Package: tcolorbox 2023/09/26 version 6.1.0 text color boxes
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgf.sty
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfrcs.sty
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfrcs.code.tex
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.re
+vision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgfcore.sty
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemla
+yer\pgfsys.sty
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count412
+\c@pgf@countb=\count413
+\c@pgf@countc=\count414
+\c@pgf@countd=\count415
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count416
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count417
+\pgfsyssoftpath@bigbuffer@items=\count418
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mat
+hcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathutil.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathparser.code.tex
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count419
+\pgfmath@box=\box55
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.basic.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.trigonometric.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.random.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.comparison.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.base.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.round.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.misc.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.integerarithmetics.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathcalc.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count420
+))
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfint.code.tex)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen170
+\pgf@picmaxx=\dimen171
+\pgf@picminy=\dimen172
+\pgf@picmaxy=\dimen173
+\pgf@pathminx=\dimen174
+\pgf@pathmaxx=\dimen175
+\pgf@pathminy=\dimen176
+\pgf@pathmaxy=\dimen177
+\pgf@xx=\dimen178
+\pgf@xy=\dimen179
+\pgf@yx=\dimen180
+\pgf@yy=\dimen181
+\pgf@zx=\dimen182
+\pgf@zy=\dimen183
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen184
+\pgf@path@lasty=\dimen185
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen186
+\pgf@shorten@start@additional=\dimen187
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count421
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen188
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen189
+\pgf@pt@y=\dimen190
+\pgf@pt@temp=\dimen191
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen192
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen193
+\pgf@sys@shading@range@num=\count422
+\pgf@shadingcount=\count423
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen194
+\pgf@nodesepend=\dimen195
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbat
+im.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks35
+\verbatim@line=\toks36
+\verbatim@in@stream=\read5
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/environ\envi
+ron.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\t
+rimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box61
+\tcb@upperbox=\box62
+\tcb@lowerbox=\box63
+\tcb@phantombox=\box64
+\c@tcbbreakpart=\count424
+\c@tcblayer=\count425
+\c@tcolorbox@number=\count426
+\tcb@temp=\box65
+\tcb@temp=\box66
+\tcb@temp=\box67
+\tcb@temp=\box68
+)
+(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\boo
+ktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen196
+\lightrulewidth=\dimen197
+\cmidrulewidth=\dimen198
+\belowrulesep=\dimen199
+\belowbottomsep=\dimen256
+\aboverulesep=\dimen257
+\abovetopsep=\dimen258
+\cmidrulesep=\dimen259
+\cmidrulekern=\dimen260
+\defaultaddspace=\dimen261
+\@cmidla=\count427
+\@cmidlb=\count428
+\@aboverulesep=\dimen262
+\@belowrulesep=\dimen263
+\@thisruleclass=\count429
+\@lastruleclass=\count430
+\@thisrulewidth=\dimen264
+)
 
 Package biblatex Warning: Load 'inputenc' before biblatex.
 
@@ -624,8 +943,8 @@ Package biblatex Warning: Load 'inputenc' before biblatex.
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count412
-\@quotereset=\count413
+\@quotelevel=\count431
+\@quotereset=\count432
 
 LaTeX Warning: Unused global option(s):
     [11p].
@@ -633,64 +952,55 @@ LaTeX Warning: Unused global option(s):
 (C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 (C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
 supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count414
-\scratchdimen=\dimen157
-\scratchbox=\box54
-\nofMPsegments=\count415
-\nofMParguments=\count416
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count417
-\MPscratchDim=\dimen158
-\MPnumerator=\count418
-\makeMPintoPDFobject=\count419
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count433
+\scratchdimen=\dimen265
+\scratchbox=\box69
+\nofMPsegments=\count434
+\nofMParguments=\count435
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count436
+\MPscratchDim=\dimen266
+\MPnumerator=\count437
+\makeMPintoPDFobject=\count438
+\everyMPtoPDFconversion=\toks38
 )
 (C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
 \epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfex
-t.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
 topdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 31.
  (C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.out) (C:/code\Fjä
 der- och friktionskraft labbrapport\auxil\main.out)
-\@outlinefile=\write4
-\openout4 = `main.out'.
+\@outlinefile=\write5
+\openout5 = `main.out'.
 
 Package biblatex Info: Trying to load language 'swedish'...
 Package biblatex Info: ... file 'swedish.lbx' found.
@@ -714,129 +1024,150 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.bbl)
-Package biblatex Info: Reference section=0 on input line 29.
-Package biblatex Info: Reference segment=0 on input line 29.
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 34--41
+Overfull \hbox (15.0pt too wide) in paragraph at lines 36--43
 [][]
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-0.
+2.
 
 (C:\Users\henrik.forsberg2\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.
 fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
+<NTI Gymnasiet_Symbol_print_svart.png, id=30, 208.78pt x 184.69pt>
+File: NTI Gymnasiet_Symbol_print_svart.png Graphic file (type png)
+<use NTI Gymnasiet_Symbol_print_svart.png>
+Package pdftex.def Info: NTI Gymnasiet_Symbol_print_svart.png  used on input li
+ne 56.
+(pdftex.def)             Requested size: 172.5pt x 152.60501pt.
+ [1
 
-main.tex:54: LaTeX Error: File `images/NTI Gymnasiet_Symbol_print_svart' not fo
-und.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.54 ...]{images/NTI Gymnasiet_Symbol_print_svart}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[1
-
-{C:/Users/henrik.forsberg2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/henrik.forsberg2/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <.
+/NTI Gymnasiet_Symbol_print_svart.png>]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64     \end{abstract}
+l.66     \end{abstract}
                         [1]
 (C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.toc)
-\tf@toc=\write5
-\openout5 = `main.toc'.
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
  [1]
+<friktionskraftexplain.png, id=61, 584.93532pt x 379.4175pt>
+File: friktionskraftexplain.png Graphic file (type png)
+<use friktionskraftexplain.png>
+Package pdftex.def Info: friktionskraftexplain.png  used on input line 89.
+(pdftex.def)             Requested size: 276.00105pt x 179.03255pt.
 
-LaTeX Warning: Citation 'impuls' on page 1 undefined on input line 84.
+main.tex:97: Undefined control sequence.
+l.97         \subtitle
+                      {Fjäderkraft}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<fjäderuppställning.jpg, id=63, 3485.02pt x 4641.34pt>
+File: fjäderuppställning.jpg Graphic file (type jpg)
+<use fjäderuppställning.jpg>
+Package pdftex.def Info: fjäderuppställning.jpg  used on input line 109.
+(pdftex.def)             Requested size: 276.00105pt x 367.56128pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+main.tex:114: Undefined control sequence.
+l.114         \subtitle
+                       {Friktions- och normalkraft}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: File `images/lutandePlan.jpg' not found on input line 98.
-
-
-main.tex:98: Package pdftex.def Error: File `images/lutandePlan.jpg' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.98 ...dth=0.8\textwidth]{images/lutandePlan.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117             \item K
+                         loss [1 <./friktionskraftexplain.png>]
+<friktionsuppställning.jpg, id=75, 4641.34pt x 3485.02pt>
+File: friktionsuppställning.jpg Graphic file (type jpg)
+<use friktionsuppställning.jpg>
+Package pdftex.def Info: friktionsuppställning.jpg  used on input line 127.
+(pdftex.def)             Requested size: 276.00105pt x 207.23099pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[2 <./fjäderuppställning.jpg>]
+<fjäderkraftgraf.png, id=87, 367.3725pt x 209.583pt>
+File: fjäderkraftgraf.png Graphic file (type png)
+<use fjäderkraftgraf.png>
+Package pdftex.def Info: fjäderkraftgraf.png  used on input line 137.
+(pdftex.def)             Requested size: 276.00105pt x 157.46507pt.
+<Friktionsgraf.png, id=88, 355.3275pt x 211.992pt>
+File: Friktionsgraf.png Graphic file (type png)
+<use Friktionsgraf.png>
+Package pdftex.def Info: Friktionsgraf.png  used on input line 143.
+(pdftex.def)             Requested size: 276.00105pt x 164.67055pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.104     \newpage
-                   [1]
 
-LaTeX Warning: Empty bibliography on input line 137.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2] [3] (C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.aux)
+[3 <./friktionsuppställning.jpg> <./fjäderkraftgraf.png>]
+
+LaTeX Warning: Empty bibliography on input line 154.
+
+[4 <./Friktionsgraf.png>]
+(C:/code\Fjäder- och friktionskraft labbrapport\auxil\main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 626BA1E08D890F5FFB516953898BC83C;852.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17835 strings out of 474824
- 318298 string characters out of 5745784
- 1927043 words of memory out of 5000000
- 39562 multiletter control sequences out of 15000+600000
- 569499 words of font info for 61 fonts, out of 8000000 for 9000
+ 27597 strings out of 474824
+ 534283 string characters out of 5745784
+ 1926043 words of memory out of 5000000
+ 49125 multiletter control sequences out of 15000+600000
+ 569186 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,81p,679b,1923s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,8n,89p,679b,1924s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ectt1000.pk> <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/lj
-four/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\henrik.forsberg2\AppData\Local\M
-iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\henrik.forsberg
-2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\User
-s\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+dpi600\ecbx1440.pk> <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\henrik.forsberg2\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\henrik.forsberg
+2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\User
+s\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 1200.pk> <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecrm1200.pk> <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\henrik.forsberg2\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\henrik.fo
-rsberg2\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:
-/Users/henrik.forsberg2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb><C:/Users/henrik.forsberg2/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/henrik.forsberg2/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/henrik.forsber
-g2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+en/ec/dpi600\ecbx2074.pk> <C:\Users\henrik.forsberg2\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\henrik.forsberg2\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Users/henrik.for
+sberg2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/henrik.forsberg2/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/henrik.forsberg2/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb>
 Output written on "C:/code\Fjäder- och friktionskraft labbrapport\out\main.pdf
-" (6 pages, 129884 bytes).
+" (7 pages, 8323307 bytes).
 PDF statistics:
- 357 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 368 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

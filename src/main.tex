@@ -11,6 +11,8 @@
 ]{biblatex}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{tcolorbox}
+\usepackage{booktabs}
 %Källor
 \addbibresource{mall.bib}
 \graphicspath{ {./images/} }
@@ -51,7 +53,7 @@
 				\end{tabular}
 			\end{large}
 			\vfill
-            \includegraphics[width=0.5\textwidth]{images/NTI Gymnasiet_Symbol_print_svart}
+            \includegraphics[width=0.5\textwidth]{NTI Gymnasiet_Symbol_print_svart}
 			\vfill
             \large{\textbf{Handledare}}\\
 			\mbox{\large{\graders}}
@@ -60,7 +62,7 @@
 
     \begin{otherlanguage}{english}
 	\begin{abstract}
-        This is the ``sammanfattning'', it is written in english and called the abstract.      
+        This paper is about the relation between the spring force and it's length though measuring it with a differing amount of weight. It is also about the relation between the normal force and friction on a block on a tilting plane.
     \end{abstract}
     \end{otherlanguage}
     % Om arbetet är långt har det en innehållsförteckning, annars kan den utelämnas
@@ -78,61 +80,75 @@
 	\setlength{\parskip}{10pt}
 	
 	\section{Syfte och frågeställning}
-		Syftet med laborationen är att analysera rörelse för en vagn som rullar längs en bana och beräkna hastighet och acceleration under rörelsen.
-        Syftet med laborationen är att analysera 
+        Syftet med laborationen är att analysera fjäderkonstaten för en fjärder samt undersöka hur olika vikt påverkar friktionen av en kloss.
 
 	\section{Bakgrund och teori}
-        Med utgångspunkt från en film av förloppet kan mjukvara för motion tracking utnyttjas för att få fram vagnens position vid olika tidpunkter. Denna information används sedan tillsammans med definitionerna av medelhastighet $v_m = \frac{\Delta s}{\Delta t}$ och medelacceleration $a_m = \frac{\Delta v}{\Delta t}$ för att beräkna ett approximativt värde för hastigheten och accelerationen som funktion av tiden. Med ett tillräckligt kort tidssteg så blir medelvärdet ungefär lika med momentanvärdet och i filmen är tidssteget som störst $\frac{1}{25}$ sekund.  \parencite{impuls}
-	
+	    Fjäderkraft är kraften en fjäder utöver under en viss tidpunkt vilket räknas ut med följande formel m*g där g är gravitations konstanten (9,82) och m är massan av vikten i kg. Friktionskraften av klossen är m*g*sin(a) och normalkraften är m*g*sin(a). Mer utvecklad förklaring i figur \ref{fig:triangle}.
+
+    \begin{figure}[!h]
+        \includegraphics[width=0.8\textwidth]{friktionskraftexplain}
+        \caption{Friktions- och normalkraft förklaring}
+        \label{fig:triangle}
+    \end{figure}
+
 
 	\section{Metod och materiel}
+
+        \subtitle{Fjäderkraft}
+
         \begin{enumerate}
-            \item Vagn
-            \item Lutande plan med ställning
+            \item Fjäder
+            \item Vikt (0,05kg)
+            \item Ställning
             \item Linjal
-            \item Mobilkamera
         \end{enumerate}
         
-        Det lutande planet monteras på ställningen så att den ena änden är 1 dm över bordet, se figur \ref{fig:lutandeplan}. Linjalen placeras längs planet så att det finns en längdskala  i filmen. Kameran placeras vid sidan av uppställningen på ett avstånd så att hela rörelsen ryms i filmen utan att kameran behöver flyttas. Vagnen rullas nedför planet samtidigt som kameran filmar rörelsen. Försöket placeras så att ljusförhållanden och bakgrund ger en så tydlig och skarp film som möjligt.
-        
-        \begin{figure}[!h]
-            \includegraphics[width=0.8\textwidth]{images/lutandePlan.jpg}
-            \caption{En blid hade varit superbra här}
-            \label{fig:lutandeplan}
-        \end{figure}
-        
-        Filmen analyserades sedan med mjukvaran Tracker för att få fram en tabell med positionen som funktion av tiden.
-    \newpage
-	\section{Analys och beräkning}
-        Datat från analysen av filmen visas i tabell \ref{table:result}
-    
-        
-        \begin{table}
-            \begin{center}
-            \begin{tabular}{ |c|c| } 
-                \hline
-                Position (m) & Tid (s)  \\ 
-                \hline
-                0 & 0  \\ 
-                0.1 & 0.02 \\
-                \vdots & \vdots \\
-                \hline
-            \end{tabular}
-                \caption{Mätvärden}
-                \label{table:result}
-            \end{center}
-        \end{table}            
-        
+        Fjädern monteras lodrätt i ställnignen. En vikt hängs i botten av fjädern och längden av fjädern mäts. En vikt läggs till och fjäderna mäts igen, detta upprepas till vi har 5 vikter, se figur \ref{fig:fjäderuppställning}.
 
-    Datat importeras i Excel och hastigheten beräknas med hjälp av formeln
-    \begin{equation}
-        v_m = \frac{\Delta s}{\Delta t}
-    \end{equation}
-    
+        \begin{figure}[!h]
+            \includegraphics[width=0.8\textwidth]{fjäderuppställning}
+            \caption{Hur uppställningen såg ut}
+            \label{fig:fjäderuppställning}
+        \end{figure}
+
+        \subtitle{Friktions- och normalkraft}
+
+        \begin{enumerate}
+            \item Kloss
+            \item Vikt (0,05kg)
+            \item Tejp
+            \item Lutande plan
+            \item Linjal
+        \end{enumerate}
+        
+        En kloss lades på ett lutande plan som sedan lyftes fram till att klossen hade konstant acceleration. Sedan mättes höjden av den sidan som lyftes distans till bordet. Sedan gjordes testet igen fast med en till vikt fram till att den hade gjorts 5 gånger totalt \ref{fig:friktionsuppställning}.
+
+        \begin{figure}[!h]
+            \includegraphics[width=0.8\textwidth]{friktionsuppställning}
+            \caption{Hur uppställningen såg ut}
+            \label{fig:friktionsuppställning}
+        \end{figure}
+
+    \newpage
+    \section{Analys och beräkning}
+    Datan importeras i Excel och fjäderkraften beräknas med hjälp av funktionen av m*g. Friktions kraften räknas ut med m*g*sin(a) och normalkraften med m*g*cos(a) se figur \ref{fig:triangle}. Datan ger följande grafer:
+
+    \begin{figure}[!h]
+        \includegraphics[width=0.8\textwidth]{fjäderkraftgraf}
+        \caption{Hur längden av fjädern förhåller sig till fjäderkraften}
+        \label{fig:fjädergraf}
+    \end{figure}
+
+    \begin{figure}[!h]
+        \includegraphics[width=0.8\textwidth]{Friktionsgraf}
+        \caption{Hur normalkraften beror på friktionskraften}
+        \label{fig:friktionsgraf}
+    \end{figure}
+
     \section{Slutsats och resultat} 
-        Resultatet av beräkningarna illustreras i graferna 2 och 3
+        Resultatet av beräkningarna illustreras i graferna \ref{fig:fjädergraf} och \ref{fig:friktionsgraf}
     \section{Diskussion} 
-    Resultatet är perfekt...
+    Eftersom att \(R^{2} = 1\) i fjäderkrafts diagrammet så lyder den vad som teoretikst skulle hända. Men den andra skulle också teoretiskt ha det. Anledningar till att den inte har det är mest troligt på grund av att hålla stilla medan någon mäter är ganska svårt så det kommer aldrig att bli helt rätt. Det är också svårt att se om accelerationen är 0 eller om den fortfarande accelererar lite.
 
     
     \printbibliography
