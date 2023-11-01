@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[164] biber-MSWIN64:340> INFO - === 
+[220] Biber.pm:419> INFO - Reading 'main.bcf'
+[379] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[396] Biber.pm:4419> INFO - Processing section 0
+[410] Biber.pm:4610> INFO - Looking for bibtex file 'mall.bib' for section 0
+[705] Utils.pm:410> ERROR - Cannot find 'mall.bib'!
+[706] Biber.pm:136> INFO - ERRORS: 1
